@@ -6,5 +6,15 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://barrysianturi.github.io',
-  integrations: [mdx(), sitemap(), tailwind()]
+  integrations: [mdx(), sitemap(), tailwind()],
+  markdown:{
+    remarkPlugins: [
+        'remark-math',
+    ],
+    rehypePlugins: [
+        ['rehype-katex', {
+        // Katex plugin options
+        }]
+    ]
+  }
 });

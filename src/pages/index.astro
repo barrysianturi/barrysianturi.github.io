@@ -4,8 +4,10 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
 
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const projects = (await getCollection("projects")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const last_posts = posts.slice(0, 3);
+const last_projects = projects.slice(0, 3);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -15,8 +17,12 @@ const last_posts = posts.slice(0, 3);
     <div class="text-3xl py-3 font-bold">Education Consultant and Data Scientist</div>
     <div class="py-2">
       <text class="text-lg">
-        I really love to learn and want to help people to learn better. I do research on game theoretical model of education and analyze evidence to make better decisions and design better interventions.<br>
-        <b>Let's colaborate! </b>
+        The primary goal of my personal endeavour is to help people to learn better. Professionally, I am currently working as a Sr Content Manager at <a href="https://www.govtechedu.id/" target="_blank" class="underline decoration-pink-500 hover:decoration-indigo-500">Govtech Edu</a>.
+        We develop content to help >2mio Indonesian teachers developing further professionally and delivering learning more optimally.
+        Alongside my job at Govtech Edu, I also do research within the area of game theoretical model of education.
+        My work explores different ways of analyzing and modeling interactions between education agents to make better decisions and design better interventions,
+        including but not limited to teacher trainings and government policies.<br>
+        <b>Let's collaborate! </b>
       </text>
     </div>
     <div class="mt-8">
@@ -31,29 +37,21 @@ const last_posts = posts.slice(0, 3);
     <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
   </div>
 
-  <HorizontalCard
-    title="Ergodicity and Education"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="NEW"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Short-term Impact of Kurikulum Merdeka on Education Outcome"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="econometrics"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Data Storytellingo on Indonesia PISA Achievement"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="data"
-  />
+  {
+    last_projects.map((post) => (
+      <>
+        <HorizontalCard
+          title={post.data.title}
+          img={post.data.heroImage}
+          desc={post.data.description}
+          url={"/projects/" + post.slug}
+          target="_self"
+          badge={post.data.badge}
+        />
+        <div class="divider my-0" />
+      </>
+    ))
+  }
 
   <div>
     <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from blog</div>
