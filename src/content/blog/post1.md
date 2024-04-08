@@ -1,57 +1,62 @@
 ---
-title: "Blog 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "Kumpulan Tulisan Semester 1 MPKP FEB UI"
+description: "Berikut adalah kumpulan tugas dalam bentuk tulisan, baik yang relatif pendek maupun yang relatif sedang, sekaligus nama mata kuliah, nilai, dan evaluasi diri saya atas setiap tulisan tersebut."
+pubDate: "Jul 3 2023"
 heroImage: "/post_img.webp"
 tags: ["tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-![image info](/profile.jpg)
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+Pada bagian evaluasi diri saya daftarkan kesalahan-kesalahan atau kekurangan dari tulisan yang saya temukan pasca-pengumpulan tugas. Pengurangan nilai tentu sangat mungkin terjadi karena temuan-temuan tersebut, namun bisa jadi ada hal-hal lain yang lebih substansial yang menyebabkannya. Namun, paling tidak, evaluasi diri ini bisa jadi bahan pendamping bagi pembaca untuk lebih berhati-hati ketika membaca.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+Laman ini sebenarnya saya buat sebagai bentuk dokumentasi pribadi. Namun, secara bersamaan, saya jadikan ini konsumsi publik siapa tahu dapat bermanfaat untuk pembaca publik secara umum.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+#Perencanaan Ekonomi dan Pembangunan
+- **Judul:** Menuju SDGs 4 Pendidikan Berkualitas: Analisis Kebijakan Nasional dalam Rangka Meningkatkan Kemampuan Membaca dan Matematika Peserta Didik di Indonesia.
+- **Nilai:** 90 dari 100
+- **Evaluasi:**
+    - Gambar 2 dan Gambar 3 buram;
+    - Penggunaan huruf kapital tidak konsisten pada penulisan peraturan perundang-undangan, misalnya pada halaman 1 dibandingkan dengan halaman 6;
+    - Penggunaan huruf kapital yang salah juga didapatkan pada beberapa kalimat, misalnya pada halaman 8 *"… di antaranya: (i) Yoshikawa, et al (2016) (24) yang menyebutkan bahwa Pendidikan prasekolah dapat meningkatkan kemampuan bahasa, literasi, dan numerasi anak-anak pada jangka pendek, dan juga berpengaruh pada pengelolaan emosi anak"*, seharusnya kata “Pendidikan” dituliskan “pendidikan” saja;
+    Penggunaan tanda baca yang salah, misalnya pada halaman 6 di kalimat “AKM sendiri telah dilaksanakan sebanyak dua kali, yaitu pada tahun 2021, dan tahun 2022”, seharusnya tanda koma setelah 2021 tidak diperlukan;
+    - Penggunaan istilah Kemdikbudristek dan Kemendikbudristek yang tidak konsisten digunakan.
+- **File:** [Download di sini](https://drive.google.com/file/d/1i_lsNzsT0rxjn5FkA_fXTJ2gQNulF_v6/view?usp=sharing)
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+#Ekonometrika Terapan
+- **Judul:** Pengaruh Kebijakan Peningkatan Batas Kompensasi Pekerja yang Cedera terhadap Durasi Waktu Pekerja Berada di Luar Pekerjaan.
+- **Nilai:** 88 dari 100
+- **Evaluasi:**
+    - Penurunan OVB formula pada halaman 6 sampai 7 untuk kasus difference-in-difference (DID) seperti yang diberikan pada soal sangat mungkin salah. Selain itu, notasi yang digunakan sangat buruk. Saya menduga seharusnya alih-alih menggunakan bentuk fungsi, penurunan dilakukan dengan mengambil nilai ekspektasi. Namun, saya memaklumi diri saya atas hal ini karena materi DID tidak masuk ke dalam cakupan materi mata kuliah Ekonometrika Terapan;
+    - Kesalahan fatal pada poin-poin simpulan pada halaman 8. Seharusnya, koefisien variabel afchnge mengalami *upward (positive) bias*, berlawanan dengan yang tertulis. Begitu juga dengan koefisien variabel afhigh seharusnya mengalami *upward (positive) bias*, berlawanan dengan yang tertulis.
+- **File Instruksi:** [Download di sini](https://drive.google.com/file/d/1Fle4VvwYdJIDhXy0inQai-_m6NATVBmz/view?usp=sharing)
+- **File"** [Download di sini](https://drive.google.com/file/d/1mrZRdjzWHd_etRmkHYQtI2tmJJLbbN3M/view?usp=sharing)
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+#Penulisan dan Komunikasi Akademik
+- **Judul:** Pengaruh Kebijakan Tunjangan Guru Bersertifikat terhadap Capaian Pembelajaran Peserta Didik di Indonesia.
+- **Nilai:** 90 dari 100
+- **Evaluasi:**
+    - Saya merasa tulisan ini kurang tajam untuk mata kuliah yang fokusnya ada pada kualitas argumen dan penulisan. Wajar saja, tulisan ini dikembangkan dengan penyederhanaan dari rencana dan topik tugas akhir mata kuliah Mikroekonomi untuk Kebijakan.
+- **File:** [Download di sini](https://drive.google.com/file/d/12NQzUwVcMFPj43IzUnM9kK_fLxxSk9pH/view?usp=sharing)
+
+#Teori dan Kebijakan Makroekonomi
+- **Judul:** Reviu Paper mengenai Political Business Cycle.
+- **Nilai:** 90 dari 100
+- **Evaluasi:**
+    - Paper 1 (Rogoff dan Sibert):
+        - Gambar 1 terlihat digambar terburu-buru. Hal ini benar karena tugas dikerjakan mepet deadline, hahahahaha;
+        - Kesimpulan dan implikasi kebijakan juga kurang tajam mengadopsi ragam kerangka teori makroekonomi yang sebenarnya bisa digunakan. Misalnya, bahasan tentang kebijakan fiskal ekspansif di ekonomi terbuka pada short-term seharusnya bisa dieksplorasi. Analisis gambar yang lebih kaya juga bisa disertakan untuk bahasan tersebut.
+    - Paper 2 (Alesina):
+        - Tujuan dan latar belakang masih kurang menangkap esensi perumuman dan intensi kritik dari model yang dibangun Alesina. Hal ini terjadi kemungkinan besar karena saya memang belum paham benar isi dari paper karena lagi-lagi, tugas dikerjakan mepet deadline, hahahaha;
+        - Lagi-lagi, kesimpulan dan implikasi kebijakan sangat tidak jelas. Kenapa tiba-tiba ada Bank Sentral? Apakah paper mengasumsikan Bank Sentral bisa dikontrol oleh eksekutor dan legislator? Elaborasi kurang jelas, terutama kataannya dengan sorotan konsistensi ideologis yang dibahas pada bagian sebelumnya..
+- **Paper yang Direviu:**
+    - Elections and Macroeconomics Cycle ditulis oleh Kenneth Rogoff dan Anne Sibert pada tahun 1988: [Download di sini](https://www.nber.org/system/files/chapters/c10951/c10951.pdf);
+    - Macroeconomics and Politics ditulis oleh Alberto Alesina pada tahun 1988: [Download di sini](https://scholar.harvard.edu/files/rogoff/files/elections_and_macroeconomic_policy_cycles.pdf).
+- **File:** [Download di sini](https://drive.google.com/file/d/19zzRFOOB__zmp7hsnsU_8IzxaD37tBeu/view?usp=sharing)
+
+#Mikroekonomi untuk Kebijakan
+- **Judul:** Kebijakan Tunjangan Profesi Guru Bersertifikat untuk Meningkatkan Kualitas Pembelajaran Peserta Didik di Indonesia.
+- **Nilai:** 90 dari 100
+- **Evaluasi:**
+    - Evaluasi dari tulisan di mata kuliah Perencanaan Ekonomi dan Pembangunan soal penulisan, tanda baca, dan kapitalisasi banyak terjadi juga pada tulisan ini.
+    - Saya sebenarnya cukup ragu dengan kebenaran dari analisis grafik yang saya lakukan. Alasannyam pemodelan dilakukan seadanya dan tanpa referensi langsung. Simpulan-simpulannya terdengar masuk akal, namun tentu ini sebuah bentuk cocokologi dan pemodelan yang terlampau simplistik.
+    - Pengutipan model Educational Production Function (EPF) dari Hanushek (1979) di awal bagian Analisis Mikroekonomi pada halaman 5 saya rasa berpotensi blunder. Agaknya EPF adalah model makroekonomi dan konteks pengutipannya kurang jelas untuk menjustifikasi penggunaannya dalam bagian analisis mikroekonomi. Walaupun terjustifikasi, eksekusi penulisan argumen terutama pada bagian transisi dari pengutipan EPF ke bagian lain argumen mikroekonomi setelahnya kurang mulus.
+- **File:** [Download di sini](https://drive.google.com/file/d/1njnF9WJj2a1ij8k9NTCoWH6Uiik_62Zi/view?usp=sharing)
